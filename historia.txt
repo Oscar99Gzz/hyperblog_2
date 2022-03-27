@@ -3,3 +3,6 @@ Esta es la historia de Freddy Vega
 Freddy Vega tiene 32 años y nació en COlombia
 
 Mañana nos enfocaremos en su vida laboral.
+
+Este cambio imprevisto fue para la clase noumero 19 
+del curso de Git/GitHub de Platzi.
